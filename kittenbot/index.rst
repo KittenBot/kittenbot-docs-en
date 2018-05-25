@@ -17,3 +17,4 @@ Here is the tutorial for kittenbot basic metal chassis robotic kit
     08Buttons.md
     09RGBRing.md
     10DrawingRobot.md
+    11WifiUploading.md
