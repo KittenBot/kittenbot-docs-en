@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-欢迎来到Kittenbot的文档与教程
+Welcome to Kittenbot Team's Documents
 ==========================================
-目录:
+Category:
 ^^^^^
 
 .. toctree::

@@ -11,3 +11,4 @@ Here is the tutorial for kittenbot basic metal chassis robotic kit
     02InstallKittenblock.md
     03MotorMove.md
     04ServoSweep.md
+    05NekomimiRgbPixel.md
