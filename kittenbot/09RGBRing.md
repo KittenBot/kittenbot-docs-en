@@ -1,10 +1,10 @@
 # The infi RGB ring
 
-## 8字灯环硬件示意图
+## The infi RGB Ring Module
 
 The infi RGB ring may also plug into the adapter board.
 
-Here we use the same wiring scheme as ultrasonic module.
+Here we use the same wiring scheme as the ultrasonic module.
 
 Adapter-Mainboard
 
@@ -13,17 +13,17 @@ Adapter-Mainboard
 - G —— GND
 - 2 —— D3
 
-The pixel arrangement shown in the pic below
+The pixel arrangement is shown in the pic below
 
 ![](./images/c09_02.jpg)
 
 ## Blocks for RGB pixels
 
-Here we have more than two pixels, and more freedom of coding. The blocks for RGB are the same as chapter 5.
+Here we have more than two pixels and more freedom of coding. The blocks for RGB are the same as chapter 5.
 
 ![](./images/c05_02.png)
 
-## Testing the rgb module
+## Testing the RGB module
 
 We make a simple blinking testing programme to loop between RGB colors. Please note that a **Black** actually means turn the RGB off.
 
@@ -40,7 +40,7 @@ Then we translate it to arduino code and download.
 
 ![](./images/c09_08.png)
 
-
+The chapter 7 to 9 could be kind of tedious but may get you familiar to kittenblock and the wiring process.
 
 
 
