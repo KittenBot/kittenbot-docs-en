@@ -15,4 +15,4 @@ Here is the tutorial for kittenbot basic metal chassis robotic kit
     06NekomimiUltrasonic.md
     07Buzzer.md
     08Buttons.md
-
+    09RGBRing.md
