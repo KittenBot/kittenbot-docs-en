@@ -13,19 +13,19 @@ There is two working mode of wifi module.
 1. AP mode, the status **blue led** will be **always on**, and blink every 3 seconds.
 2. Station mode, the status **blue led** will be **always off**, and blink every 3 seconds.
 
-![](./images/c11_00.png)
+![](./images/C11_00.png)
 
 ### AP Mode
 
 AP mode means the wifi module act as an accessing point and you may find AP node starts with **ESP_XXXXXX** and without password in default.
 
-![](./images/c11_01.png)
+![](./images/C11_01.png)
 
 ### Station Mode
 
 Station mode means that the module has joined your home/workspace router, you may find your wifi module in Kittenblock if successfully make it join your local network.
 
-![](./images/c11_02.png)
+![](./images/C11_02.png)
 
 We always recommend using wifi module in station mode, as it is more stable and may access to even more advanced functions like App, IoT, roaming etc.
 
@@ -37,27 +37,27 @@ There is two method to join the wifi module to your LAN, the first one to use th
 
 Connect wifi module's access point with any device with a browser, like your laptop or mobile phone. In the browser type **http://192.168.4.1** you may find the config page below.
 
-![](./images/c11_03.png)
+![](./images/C11_03.png)
 
 Navi to **Wifi Station** page by clicking the corresponding button on the left panel.
 
 You may find a list of access points near around. 
 
-![](./images/c11_04.png)
+![](./images/C11_04.png)
 
 If you can't find the searching list, please switch to **STA** or **AP+STA** mode.
 
-![](./images/c11_05.png)
+![](./images/C11_05.png)
 
 Check your router's tag and enter the password then click **connect**.
 
-![](./images/c11_06.png)
+![](./images/C11_06.png)
 
 Wait a while, if everything goes fine you may find your device disconnected from the wifi module. And the LED of wifi module **became off** and blick every 3 seconds.
 
 Now open kittenblock and you may find the wifi module in your LAN.
 
-![](./images/c11_07.png)
+![](./images/C11_07.png)
 
 Most thing you do with a USB cable will work with a wifi connection.
 
@@ -67,7 +67,7 @@ You may also let the wifi module join your LAN with the help of our app. Try sea
 
 You may find a term **Join Your Home LAN** on the info page, which will start the **Smart Config** process.
 
-![](./images/c11_08.png)
+![](./images/C11_08.png)
 
 Follow the instructions in the app to complete the rest process.
 
@@ -77,11 +77,11 @@ After successful join your wifi module to LAN, you may connect to the robot via 
 
 Let's try a very basic blink code to see if the wireless communication works:
 
-![](./images/c11_09.png)
+![](./images/C11_09.png)
 
 You may also restore the firmware or upload any arduino sketch via the wifi module.
 
-![](./images/c11_10.png)
+![](./images/C11_10.png)
 
 ## Notice on using wifi module
 
