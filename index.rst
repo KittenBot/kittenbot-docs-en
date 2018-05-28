@@ -13,4 +13,4 @@ Category:
     :glob:
 
     kittenbot/index
-
+    minilfr/index
