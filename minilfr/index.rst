@@ -9,4 +9,4 @@ Here is the tutorials for MiniLFR Robot
     :numbered: 2
 
     01OpenboxAndQuickplay.md
-
+    02ObjectAvoidance.md

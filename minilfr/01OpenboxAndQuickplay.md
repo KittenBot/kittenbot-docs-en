@@ -45,7 +45,7 @@ Use transparent tape to stick the four corners of the map and flatten the map as
 
 ### Prepare the Car
 
-Pull out the LFR's battery plastic baffle. Someplace in the world has a strict shipment of battery, so you may get a piece of 18650 battery locally. Any kind of 18650 battery with 1 cell(3.7v) should work fine. 
+Pull out the LFR's battery plastic baffle. Someplace in the planet has a strict shipment of battery, so you may get a piece of 18650 battery locally. Any kind of 18650 battery with 1 cell(3.7v) should work fine. 
 
 ![](./images/c1_06.jpg)
 
