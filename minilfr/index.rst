@@ -13,3 +13,4 @@ Here is the tutorials for MiniLFR Robot
     03InstallKittenblock.md
     04SpotLight.md
     05HoverLight.md
+    06Buzzer.md

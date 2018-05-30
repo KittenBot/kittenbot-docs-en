@@ -8,15 +8,15 @@
 
 ![](./images/c5_02.png)
 
-These block is to control the RGB lights in the bottom.
+This block is to control the RGB lights in the bottom.
 
 - Brightness
-- colour
+- color
 - and off
 
 ## Detailed bottom RGB blocks
 
-You may select which pixel to control in the first slot. And select your desired color in the color dropdown.
+You may select which pixel to control in the first slot. And select your desired color in the color drop-down.
 
 ![](./images/c5_03.png)
 
@@ -26,7 +26,7 @@ Here we make a very basic color looping programme, make sure you have **restored
 
 ![](./images/c5_04.png)
 
-You can also make your own combinations by modify the code. Click the green flag block on top or the green flag button to start.
+You can also make your own combinations by modifying the code. Click the green flag block on top of the green flag button to start.
 
 ## Offline mode
 
