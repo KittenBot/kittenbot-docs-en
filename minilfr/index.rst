@@ -11,3 +11,4 @@ Here is the tutorials for MiniLFR Robot
     01OpenboxAndQuickplay.md
     02ObjectAvoidance.md
     03InstallKittenblock.md
+    04SpotLight.md
