@@ -12,3 +12,4 @@ Here is the tutorials for MiniLFR Robot
     02ObjectAvoidance.md
     03InstallKittenblock.md
     04SpotLight.md
+    05HoverLight.md
