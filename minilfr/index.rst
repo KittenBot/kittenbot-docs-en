@@ -17,3 +17,4 @@ Here is the tutorials for MiniLFR Robot
     07MotorControl.md
     08Buttons.md
     09IrSensors.md
+    10InfiRGBRing.md
