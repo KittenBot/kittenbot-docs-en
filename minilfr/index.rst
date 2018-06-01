@@ -15,3 +15,5 @@ Here is the tutorials for MiniLFR Robot
     05HoverLight.md
     06Buzzer.md
     07MotorControl.md
+    08Buttons.md
+    09IrSensors.md
