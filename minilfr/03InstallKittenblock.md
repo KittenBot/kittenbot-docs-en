@@ -74,6 +74,10 @@ It may take 10~20 seconds to finish the restoring process.
 
 You may also check the source code of firmware here.
 
+## Wifi Communication
+
+In some case across this tutorial, we may use wireless communication to get a better experience or result. Please refer [the wifi setupping guide chapter](http://learn.kittenbot.cc/en/latest/kittenbot/11WifiUploading.html) in kittenbot, they are the same.
+
 ## Summary
 
 Successfully go through the steps above has proven that you have successfully started the Kittenblock graphical programming software, next tutorial will start the actual programming.
