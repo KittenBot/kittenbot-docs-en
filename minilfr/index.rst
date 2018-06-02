@@ -18,3 +18,4 @@ Here is the tutorials for MiniLFR Robot
     08Buttons.md
     09IrSensors.md
     10InfiRGBRing.md
+    11NekoMimiRGB.md
