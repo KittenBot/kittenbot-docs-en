@@ -20,3 +20,5 @@ Here is the tutorials for MiniLFR Robot
     10InfiRGBRing.md
     11NekoMimiRGB.md
     12NekoMimiUltrasonic.md
+    13IrRemoteControl.md
+    14MatrixScreen.md
