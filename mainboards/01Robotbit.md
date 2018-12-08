@@ -215,5 +215,5 @@ Can only be connected to 5V, above 5V will damage the board, the current is reco
 ### I did follow the tutorial, not results
 If the test results are not corresponding, first check your wiring and procedures, some small place in general is missing, please double check.
 ### The circuit board seems to be burnt out. How can I get warranty?
-**国外保修策略需要C填充**
+
 
