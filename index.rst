@@ -14,3 +14,4 @@ Category:
 
     kittenbot/index
     minilfr/index
+    mainboards/index
