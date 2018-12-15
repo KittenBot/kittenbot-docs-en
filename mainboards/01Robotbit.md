@@ -150,7 +150,7 @@ You can only input 5V or less into this port. If you have a higher voltage sourc
 ## Robotbit Quick start
 ### Put the 18650 battery on the Robotbit, pay attention to the positive and negative pole.
 
-![](https://i.loli.net/2018/12/08/5c0b2a1154deb.gif)
+![](https://imgchr.com/i/FU5bkQ)
 
 ### Plug the Microbit into the Robotbit and pay attention to the plugging direction.
 
@@ -158,7 +158,7 @@ You can only input 5V or less into this port. If you have a higher voltage sourc
 
 ### Click the battery activation button
 
-![](https://i.loli.net/2018/12/08/5c0b2a0d013d1.gif)
+![](https://imgchr.com/i/FU5T0S)
 
 ### Turn on the 18650 battery switch
 
