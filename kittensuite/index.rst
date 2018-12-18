@@ -1,4 +1,4 @@
-MiniLFR Tutorials
+Microbit Robotic Kit
 ====================
 
 Here is the tutorials for MiniLFR Robot
